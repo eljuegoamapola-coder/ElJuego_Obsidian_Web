@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/EL JUEGO.md",
-                "mode": "source",
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EL JUEGO"
+              "title": "🎥 Cambios de cámara"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/EL JUEGO.md",
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EL JUEGO"
+              "title": "Backlinks for 🎥 Cambios de cámara"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/EL JUEGO.md",
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EL JUEGO"
+              "title": "Outgoing links from 🎥 Cambios de cámara"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/EL JUEGO.md",
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EL JUEGO"
+              "title": "Outline of 🎥 Cambios de cámara"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "30af8ec7c4111c45",
   "lastOpenFiles": [
+    "ejemplo cambio camara.mp4",
+    "Pasted image 20251112195517.png",
     "Welcome.md",
     "index.md"
   ]
