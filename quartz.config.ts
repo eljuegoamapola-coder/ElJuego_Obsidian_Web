@@ -19,6 +19,14 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+
+    // ⬇⬇⬇ AÑADIDO — PERMITE HTML RAW Y IFRAMES
+    markdown: {
+      enableHtml: true,
+      sanitizeHtml: false,
+    },
+    // ⬆⬆⬆ IMPORTANTE PARA QUE YOUTUBE Y VIDEOS FUNCIONEN
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -53,6 +61,7 @@ const config: QuartzConfig = {
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -66,7 +75,10 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+
+      // ⚠️ IMPORTANTE: cambia enableInHtmlEmbed a true
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
+
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -88,7 +100,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
