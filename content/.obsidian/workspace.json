@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "f40c878d1031cabb",
     "type": "split",
     "children": [
@@ -9,16 +10,36 @@
         "children": [
           {
             "id": "e7b0ddad304f24c6",
+=======
+    "id": "084829ceaab1d8a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "56c57d0c43f938bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30af8ec7c4111c45",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Untitled/Proyecto uno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Proyecto uno"
+=======
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎥 Cambios de cámara"
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             }
           }
         ]
@@ -27,6 +48,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "5a5c0cf439a0c6bc",
     "type": "split",
     "children": [
@@ -36,6 +58,17 @@
         "children": [
           {
             "id": "734c5a1881452d24",
+=======
+    "id": "c52bf70cdda14e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "018576fb72f22387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4c977cf048e3242",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +81,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "ccf43cb58881ef14",
+=======
+            "id": "0608326e0cb10adf",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +102,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "0942b06b2c89a8c7",
+=======
+            "id": "b99905d4f647449a",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,6 +122,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "eab44a0574a4a550",
     "type": "split",
     "children": [
@@ -90,11 +132,26 @@
         "children": [
           {
             "id": "e221a0bafd2383f5",
+=======
+    "id": "0f7a728361a95ed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd8c7406418d23d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefd3d68d637e8b1",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Untitled/Proyecto uno.md",
+=======
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +161,45 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Proyecto uno"
             }
           },
           {
             "id": "e0a04e88bddaa1ba",
+=======
+              "title": "Backlinks for 🎥 Cambios de cámara"
+            }
+          },
+          {
+            "id": "368818504a2f75be",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Untitled/Proyecto uno.md",
+=======
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Proyecto uno"
             }
           },
           {
             "id": "620aee1ea284a7c4",
+=======
+              "title": "Outgoing links from 🎥 Cambios de cámara"
+            }
+          },
+          {
+            "id": "b6ec52d01da1525e",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +214,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "b12cf5e5118acee0",
+=======
+            "id": "c129ba39e3f7e848",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Untitled/Proyecto uno.md",
+=======
+                "file": "🕹️ Mecánicas Godot/🎥 Cambios de cámara.md",
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Proyecto uno"
+=======
+              "title": "Outline of 🎥 Cambios de cámara"
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
             }
           }
         ]
@@ -169,6 +258,16 @@
       "bases:Create new base": false
     }
   },
+<<<<<<< HEAD
   "active": "e7b0ddad304f24c6",
   "lastOpenFiles": []
+=======
+  "active": "30af8ec7c4111c45",
+  "lastOpenFiles": [
+    "ejemplo cambio camara.mp4",
+    "Pasted image 20251112195517.png",
+    "Welcome.md",
+    "index.md"
+  ]
+>>>>>>> ad63494f411f66b372d27c515cd39298ee041fb0
 }
