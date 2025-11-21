@@ -1,7 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+// Pie de pagina
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Instagram": "https://www.instagram.com/inkrootstudios/",
     },
   }),
 }
